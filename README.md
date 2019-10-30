@@ -1,1 +1,1 @@
-Scheme iterpreter Chicken Scheme http://www.call-cc.org/
+Scheme iterpreter - Chicken Scheme http://www.call-cc.org/
